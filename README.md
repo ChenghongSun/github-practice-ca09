@@ -222,3 +222,4 @@
 |191| Peter |33| ppeterwan | https://github.com/ppeterwan/personal_website | https://pwan-website.netlify.app/ | 2020-10-23
 |192|Grace Feng|25|GraceFeng-YJ|<https://github.com/GraceFeng-YJ/my_website>|<https://gracefeng-portfolio-website.netlify.app/>|2020-10-23
 |193| Jerome Billiet | 34 | JeromeBilliet | <https://github.com/JeromeBilliet/my_website> | <https://jeromebilliet.netlify.app/> | 2020-10-26
+|194| Chenghong Sun | 30 | ChenghongSun | <https://github.com/ChenghongSun/mynewwebsite> | <https://chenghong-portfolio.netlify.app/> | 2020-11-8
